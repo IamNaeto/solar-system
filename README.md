@@ -1,7 +1,7 @@
 # Solar System
 - A web app that calculates the weight of objects in any of the planets in the solar system
     
-    - Live Link :: [https://iamnaeto.github.io/solar-system/])
+    - Live Link :: [Go Live](https://iamnaeto.github.io/solar-system/)
     
 ## Author: Charles Obimnaeto Egesionu ##
 
