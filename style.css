@@ -23,13 +23,20 @@ h1{
     font-size: 30px;
     text-shadow: 1px 1px 1px #0000ff;
     margin-bottom: 50px;
+    text-transform: uppercase;
+}
+.subheader{
+     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 input{
     padding: 10px;
     outline: none;
     border: none;
     width: 200px;
-    margin-left: 80px;
+    border-radius: 3px;
+    color: #777676;
 }
 select{
     padding: 10px;
@@ -38,6 +45,7 @@ select{
     width: 150px;
     border-radius: 3px;
     color: #777676;
+    margin: 0 10px;
 }
 button{
     padding: 10px;
